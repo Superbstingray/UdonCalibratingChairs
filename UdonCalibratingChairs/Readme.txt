@@ -1,7 +1,7 @@
 Created by Superbstingray
 
 UdonCalibratingChairs
-V1.62  -  3/08/21  -  Made in UdonGraph SDK3-2021.07.13.13.39
+v3.1  -  3/08/21  -  Made in UdonGraph SDK3-2021.07.13.13.39
 
 Chairs that adjust their enter point to align avatars to a better sitting position. Includes a fix for VR users entering rotated stations.
 
