@@ -3,15 +3,11 @@ UdonCalibratingChairs
 
 https://github.com/Superbstingray/UdonCalibratingChairs
 
-v3.2 / v4.0  -  3/08/23  -  Made with UdonGraph: VRChat SDK - Worlds 3.1.11
+v4.0  -  3/30/23  -  Made with UdonGraph: VRChat SDK - Worlds 3.1.11
 
-Chairs that adjust their enter point to align avatars to a better sitting position. Includes a fix for VR users entering rotated stations and proximity functions so they are less likely to be used accidentally.
+Chairs that adjust their enter point to align avatars to a better sitting position. Includes a fix for VR users entering rotated stations and a proximity function so they are less likely to be entered accidentally.
 
-Sets the station seated position offset based on the position of the avatars knee.
-
-Makes local and remote users check the users avatar knee position and sets the seated position offset to correct the players knee location to the defined Knee Target Position.
-
-v4.0 - Only interactable while within the trigger distance of the collider and only calibrates when a user is looking at the station.
+v4.0 - Only interactable while within the trigger distance of the collider and only calibrates once the player is visible and within a set distance. This fixes calibration issues with the new avatar hiding feature.
 
 (Usage)
 
