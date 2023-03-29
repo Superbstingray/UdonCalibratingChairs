@@ -1,8 +1,8 @@
-# UdonCalibratingChairs
+# UdonCalibratingChairs [![Licence](https://img.shields.io/github/license/Superbstingray/UdonCalibratingChairs?color=blue&label=License)](https://github.com/Superbstingray/UdonCalibratingChairs/blob/main/LICENSE) [![Releases](https://img.shields.io/github/v/tag/Superbstingray/UdonCalibratingChairs?color=blue&label=Download)](https://github.com/Superbstingray/UdonCalibratingChairs/releases/download/v4.0/UdonCalibratingChairs.unitypackage)
 
-* Chairs that adjust their enter point to align avatars to a better sitting position. Includes a fix for VR users entering rotated stations.
+* VRCStation Chairs that adjust their enter point to align avatars to a better sitting position by aligning the avatars knee position to a target transform.
 
-* Sets seated position based on avatar knee position.
+* Includes a fix for VR users entering rotated stations.
 
 * Made with UdonGraph so no U# requirement.
 
