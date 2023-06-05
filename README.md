@@ -2,11 +2,15 @@
 
 * VRCStation Chairs that adjust their enter point to align avatars to a better sitting position by aligning the avatars knee position to a target transform.
 
+* Built in Proximity Fix
+
 * Includes a fix for VR users entering rotated stations.
 
 * Made with UdonGraph so no U# requirement.
 
+## Example World
 
+https://vrchat.com/home/world/wrld_6eaf7a85-ffcb-4765-a9b6-c7e435802079
 
 ## Requirements
 
