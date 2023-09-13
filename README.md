@@ -16,3 +16,6 @@ https://vrchat.com/home/world/wrld_6eaf7a85-ffcb-4765-a9b6-c7e435802079
 
 [VRC-SDK3-Udon](https://vrchat.com/home/download)
 
+## Prefab Image
+![ChairImage](https://github.com/Superbstingray/UdonCalibratingChairs/assets/74171114/a7f6f7ff-0ac3-4eba-ab53-b2c2313b0cb0)
+
